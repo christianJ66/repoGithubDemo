@@ -14,4 +14,4 @@ mi = str(now.minute)
 
 ss = str(now.second)
 
-print ("Date en python  from git : " + mm + "/" + dd + "/" + yyyy +"/"+" " +hour+" :"+mi+" :"+ss)
+print ("Date en python  from git 0éeme essai : " + mm + "/" + dd + "/" + yyyy +"/"+" " +hour+" :"+mi+" :"+ss)
